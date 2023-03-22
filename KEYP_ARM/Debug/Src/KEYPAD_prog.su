@@ -1,0 +1,2 @@
+../Src/KEYPAD_prog.c:15:6:H_KEYPAD_void_init	8	static
+../Src/KEYPAD_prog.c:41:4:H_KEYPAD_void_getPressedKey	40	static

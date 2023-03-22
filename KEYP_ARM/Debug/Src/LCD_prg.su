@@ -1,0 +1,10 @@
+../Src/LCD_prg.c:17:6:H_LCD_void_Init	8	static
+../Src/LCD_prg.c:72:6:H_LCD_void_sendData	16	static
+../Src/LCD_prg.c:79:6:H_LCD_void_sendCommand	16	static
+../Src/LCD_prg.c:87:6:H_LCD_void_sendString	16	static
+../Src/LCD_prg.c:95:6:H_LCD_void_clear	8	static
+../Src/LCD_prg.c:99:6:H_LCD_void_sendIntNum	32	static
+../Src/LCD_prg.c:126:6:H_LCD_void_gotXY	16	static
+../Src/LCD_prg.c:144:6:H_LCD_void_creatCustomChar	16	static
+../Src/LCD_prg.c:148:6:H_LCD_void_displayCustomChar	16	static
+../Src/LCD_prg.c:152:13:H_LCD_void_writeNlatch	16	static
